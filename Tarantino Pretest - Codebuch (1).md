@@ -10,7 +10,7 @@
 |name|Name oder Bezeichnung des Knotens|||||
 |sex|Dichotome Ausprägung: male oder female. Einfacher auch numerisch als 1, 2 oder 3 zu kodieren.|
 |age|Numerische Angabe des Alters.||||||
-|type|Definiert fehlende Werte, bei der Datenerhebung das Feld einfach leer lassen, R rechnet NAs  einfach aus.|
+|type|Interessant bei two-modeNetzwerken; unterscheidet verschiedene Arten von Akteuren|
 ||||||||||
 |#Edge-Attribute||||||||
 ||||||||||
